@@ -358,3 +358,17 @@ footer {
     padding: 25px 18px;
   }
 }
+.dashboard-preview {
+  background: white;
+  padding: 15px;
+  border-radius: 14px;
+  box-shadow: 0 5px 20px rgba(15, 23, 42, 0.08);
+  overflow: hidden;
+}
+
+.dashboard-preview img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
